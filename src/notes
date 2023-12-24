@@ -1,1 +1,2 @@
 okay first we get id now we want to take an input and post on the blockchain and read from the blockchain
+to get to work we actually had to make a real tracnsaction with the sepolia test eth and sswith the endpoint in infura provider to connect to the chain 
